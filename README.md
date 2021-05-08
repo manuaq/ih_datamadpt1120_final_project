@@ -3,7 +3,6 @@
 
 # ih_datamadpt1120_final_project
 
-![Image](https://surestemadrid.com/estudioviviendamadrid/img/estecity_1518.gif)
 
 ### For this project I will explore Real Estate in Madrid by scraping data from a website and creating a Tableau Viz to navigate all the info.
 
